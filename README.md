@@ -6,12 +6,6 @@ I focus on clear structure, consistent design systems, and interfaces that stay 
 
 ---
 
-### Currently Working On
-- **[Hermes](https://hermes-plt.xyz)** — Frontend for a modern data infrastructure platform  
-  (Website + Documentation UI using Next.js, TypeScript & Tailwind)
-
----
-
 ### Featured Projects
 
 | Project | Description | Tech | Live |
