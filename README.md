@@ -16,7 +16,7 @@ I focus on clear structure, consistent design systems, and interfaces that stay 
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| **[SHOEPHILE](https://github.com/bia-studio18/SHOEPHILE)** | Full-stack e-commerce for premium women's flats (cart, coupons, reviews, admin panel) | HTML, CSS, JS, Express, MongoDB | [Live Demo](https://shoephile.vercel.app/) |
+| **[Loop & Bloom](https://github.com/bia-studio18/Loop-Bloom)** | Handmade accessories store (scrunchies, bracelets, mini bags) with admin panel | HTML, CSS, JavaScript | [Live Demo](https://loop-bloom.netlify.app) |
 | **[Hermes](https://github.com/bia-studio18/Hermes)** | Frontend contributions to data platform (website + docs) | Next.js, TypeScript, Tailwind | [Website](https://hermes-plt.xyz) · [Docs](https://docs.hermes-plt.xyz) |
 | **[Personal Portfolio](https://github.com/bia-studio18/Personal-portfolio)** | Clean responsive portfolio with dark mode & animations | HTML, CSS, JavaScript | [Live Demo](https://bia-studio18.github.io/Personal-portfolio/) |
 | **[Weather App](https://github.com/bia-studio18/Weather-App)** | Feature-rich weather app (forecast, favorites, dark mode, geolocation) | HTML, CSS, JavaScript | — |
