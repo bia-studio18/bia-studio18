@@ -1,8 +1,8 @@
 # Hi, I'm Tasbiha Shahzaib 👋
 
-**Frontend Developer** · Building clean, reliable interfaces for data products
+**Frontend Developer** focused on building clean, reliable, and thoughtful user interfaces.
 
-I focus on clear structure, consistent design systems, and interfaces that stay usable as products grow — from marketing sites to institutional dashboards.
+I care about clear structure, consistent design systems, and interfaces that stay usable as products grow — from marketing websites to data-driven dashboards.
 
 ---
 
@@ -10,18 +10,19 @@ I focus on clear structure, consistent design systems, and interfaces that stay 
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| **[Loop & Bloom](https://github.com/bia-studio18/Loop-Bloom)** | Handmade accessories store (scrunchies, bracelets, mini bags) with admin panel | HTML, CSS, JavaScript | [Live Demo](https://loop-bloom.netlify.app) |
-| **[Hermes](https://github.com/bia-studio18/Hermes)** | Frontend contributions to data platform (website + docs) | Next.js, TypeScript, Tailwind | [Website](https://hermes-plt.xyz) · [Docs](https://docs.hermes-plt.xyz) |
-| **[Personal Portfolio](https://github.com/bia-studio18/Personal-portfolio)** | Clean responsive portfolio with dark mode & animations | HTML, CSS, JavaScript | [Live Demo](https://bia-studio18.github.io/Personal-portfolio/) |
-| **[Weather App](https://github.com/bia-studio18/Weather-App)** | Feature-rich weather app (forecast, favorites, dark mode, geolocation) | HTML, CSS, JavaScript | — |
+| **[Loop & Bloom](https://github.com/bia-studio18/Loop-Bloom)** | Handmade accessories store with cart, Instagram order flow & admin panel | HTML · CSS · JavaScript | [Live Demo](https://loop-bloom.netlify.app) |
+| **[Hermes](https://github.com/bia-studio18/Hermes)** | Frontend work on a modern data infrastructure platform (website + docs) | Next.js · TypeScript · Tailwind | [Website](https://hermes-plt.xyz) |
+| **[Personal Portfolio](https://github.com/bia-studio18/Personal-portfolio)** | Responsive personal portfolio with dark mode and smooth animations | HTML · CSS · JavaScript | [Live Demo](https://bia-studio18.github.io/Personal-portfolio/) |
+| **[Weather App](https://github.com/bia-studio18/Weather-App)** | Feature-rich weather application with forecast, favorites & geolocation | HTML · CSS · JavaScript | — |
 
 ---
 
-### What I Care About
-- Clean layout & readable visual hierarchy
-- Responsive UI that works on real devices
-- Small details: hover, focus states, spacing, consistency
-- Shipping real improvements on live codebases
+### What I Focus On
+
+- Clean visual hierarchy and readable layouts
+- Responsive design that works well on real devices
+- Attention to small details (hover states, spacing, consistency)
+- Building and improving real, usable interfaces
 
 ---
 
@@ -31,7 +32,8 @@ I focus on clear structure, consistent design systems, and interfaces that stay 
 
 ---
 
-### Connect with me
-- GitHub: [bia-studio18](https://github.com/bia-studio18)
-- LinkedIn: [Tasbiha Shahzaib](https://www.linkedin.com/in/tasbiha-shahzaib-5a4b742a7)
-- Email: bia.ims1802@gmail.com
+### Connect with Me
+
+- **GitHub:** [bia-studio18](https://github.com/bia-studio18)
+- **LinkedIn:** [Tasbiha Shahzaib](https://www.linkedin.com/in/tasbiha-shahzaib-5a4b742a7)
+- **Email:** bia.ims1802@gmail.com
